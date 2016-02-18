@@ -3,14 +3,15 @@
 Import Sass files installed through npm. See [node-sass importer](https://github.com/sass/node-sass#importer--v200---experimental) option.
 
 ## Basic usage
-> The following example is using Gulp.
+> The following example is using gulp and gulp-sass, but could be used just as easily with node-sass directly and webpack or other build tools. The main thing to note is how we're passing the importer option to node-sass.
 
-### Setup
+### Prerequisite
+> Make sure you have gulp installed globally. If not, run `npm install -g gulp`
+
+#### Setup
 
 ```bash
-npm install sass-importer-npm \
-	gulp \
-	gulp-sass
+npm install sass-importer-npm gulp gulp-sass
 ```
 
 ### Something to import

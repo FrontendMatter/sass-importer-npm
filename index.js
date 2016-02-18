@@ -11,7 +11,7 @@ function resolvePath (r) {
   return require.resolve(r);
 }
 
-// Look for modules installed through npm
+// Import Sass files installed through npm
 // See https://github.com/sass/node-sass#importer--v200---experimental
 module.exports = function(url, file, done) {
 	if (url.indexOf('.scss') === -1) {

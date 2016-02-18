@@ -24,5 +24,6 @@
   "homepage": "https://github.com/themekit/sass-importer-npm#readme",
   "dependencies": {
     "resolve": "^1.1.7"
-  }
+  },
+  "devDependencies": {}
 }

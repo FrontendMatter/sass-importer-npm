@@ -1,0 +1,28 @@
+{
+  "name": "sass-importer-npm",
+  "version": "1.0.0",
+  "description": "Sass importer handler for resolving Sass file paths from npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "import",
+    "importer",
+    "npm"
+  ],
+  "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/sass-importer-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themekit/sass-importer-npm/issues"
+  },
+  "homepage": "https://github.com/themekit/sass-importer-npm#readme",
+  "dependencies": {
+    "resolve": "^1.1.7"
+  }
+}

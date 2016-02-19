@@ -1,6 +1,6 @@
 {
   "name": "sass-importer-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass importer handler for resolving Sass file paths from npm packages",
   "main": "index.js",
   "scripts": {

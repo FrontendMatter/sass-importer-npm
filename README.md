@@ -4,7 +4,7 @@
 
 Import Sass files installed through npm packages using [node-sass importer](https://github.com/sass/node-sass#importer--v200---experimental) option. Works with gulp-sass and webpack!
 
-Created for our awesome [AdminPlus Lite](themekit/adminplus) Bootstrap Admin Template.
+Created for our awesome [AdminPlus Lite](https://github.com/themekit/adminplus) Bootstrap Admin Template.
 
 ## Basic usage
 > The following example is using gulp and gulp-sass, but could be used just as easily with node-sass directly and webpack or other build tools. The main thing to note is how we're passing the importer option to node-sass.

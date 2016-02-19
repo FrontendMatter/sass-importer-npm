@@ -1,7 +1,7 @@
 {
   "name": "sass-importer-npm",
   "version": "1.0.1",
-  "description": "Import Sass files installed through npm packages",
+  "description": "Import Sass files installed through npm packages using node-sass importer option. Works with gulp-sass and webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

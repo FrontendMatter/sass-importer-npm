@@ -1,7 +1,7 @@
 {
   "name": "sass-importer-npm",
   "version": "1.0.1",
-  "description": "Sass importer handler for resolving Sass file paths from npm packages",
+  "description": "Import Sass files installed through npm packages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,12 @@
     "sass",
     "import",
     "importer",
-    "npm"
+    "npm",
+    "node-sass",
+    "scss",
+    "gulp",
+    "gulp-sass",
+    "webpack"
   ],
   "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
   "license": "ISC",

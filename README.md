@@ -24,7 +24,7 @@ npm install bootstrap@v4.0.0-alpha.2
 ### sass/style.scss
 
 ```sass
-@import 'bootstrap/sass/variables';
+@import 'bootstrap/scss/variables';
 
 // That's it!
 ```
